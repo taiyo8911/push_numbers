@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(
-              '1から順に数字をタップしていく早押しゲーム。\nスタートボタンを押してゲームスタート。',
+              '1から順に数字をタップしていく早押しゲーム。\nスタートボタンを押してゲームスタート！',
               style: TextStyle(
                 fontSize: 15,
                 fontWeight: FontWeight.bold,
